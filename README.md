@@ -12,6 +12,7 @@ Jehuty is a client/server framework for endpoint management. It is currently in 
 ## Future Capabilities
 * Adjust Jehuty server to scale out to at least 10 client endpoint connections.
 * Add basic endpoint management commands, such as: shutdown, restart, run updates.
+* Adjust Jehuty client to pass the IPv4 via command arguments rather than hardcoded.
 
 ## Building Windows Client
 To build the client, install PyInstaller. Then, execute:  "pyinstaller.py --noconsole JehutyClient.py". This will allow the PE to execute with no console window aka silently. 
