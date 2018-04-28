@@ -1,5 +1,6 @@
 # jehuty
 Jehuty is a client/server framework for endpoint management. It is currently in pre-Alpha state.
+<img width="453" alt="screen shot 2018-04-28 at 7 03 45 am" src="https://user-images.githubusercontent.com/11253216/39397483-bbcc6b32-4ab4-11e8-9fe1-6a28cf99493e.png">
 
 ## Capabilities
 * Jehuty server runs on MacOS & Linux
